@@ -7,20 +7,20 @@ I started on the assembly line at **General Motors** and moved into engineering 
 
 ### Projects
 
-- **[JornadaTech](https://github.com/gostislavtx/jornadatech)** 🏆 *1st place – XX Mostra de Iniciação Científica, Cesuca 2026*
-  Flutter app (mobile + web) that organizes free tech content into learning paths, so students keep studying after class. Part of the **Metamorfose Digital** project, supporting **UN SDG 4** (Quality Education) and **SDG 10** (Reduced Inequalities).
+- **[JornadaTech](https://github.com/gostislavtx/jornadatech)** 🏆 *1st place – XX Mostra de Iniciação Científica, Cesuca 2026*<br>
+  Flutter app (mobile + web) that organizes free tech content into learning paths, so students keep studying after class. Part of the **Metamorfose Digital** project, supporting **UN SDG 4** (Quality Education) and **SDG 10** (Reduced Inequalities).<br>
   `Flutter` `Dart` `Figma`
 
-- **[Vértice Desk](https://github.com/gostislavtx/hackaton-cesuca)** 🥉 *3rd place – Hackathon Data Cempro + Cesuca 2026*
-  Help desk with AI ticket triage and a churn-risk radar for B2B clients. I built the front-end.
+- **[Vértice Desk](https://github.com/gostislavtx/hackaton-cesuca)** 🥉 *3rd place – Hackathon Data Cempro + Cesuca 2026*<br>
+  Help desk with AI ticket triage and a churn-risk radar for B2B clients. I built the front-end.<br>
   `Python` `Streamlit` `Ollama` `Claude` `Docker`
 
-- **uRoute** *(in development)*
-  Carpool app for university students, built by a team of four, starting at Cesuca.
+- **uRoute** *(in development)*<br>
+  Carpool app for university students, built by a team of four, starting at Cesuca.<br>
   `TypeScript` `React Native` `Expo` `Vitest`
 
-- **PPE detection (computer vision)**
-  YOLO model fine-tuned to spot missing helmets in real time, designed as a safety gate before the operator starts work.
+- **PPE detection (computer vision)**<br>
+  YOLO model fine-tuned to spot missing helmets in real time, designed as a safety gate before the operator starts work.<br>
   `Python` `YOLO` `Ultralytics` `Google Colab`
 
 ### At work (GM)
@@ -51,4 +51,4 @@ I started on the assembly line at **General Motors** and moved into engineering 
 ### Contact
 
 - [LinkedIn](https://www.linkedin.com/in/luizteixeira03)
-- Email: luiz.teixeira@gm.com - luizbonatex@gmail.com
+- Email: [luizbonatex@gmail.com](mailto:luizbonatex@gmail.com)
