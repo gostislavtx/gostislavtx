@@ -50,5 +50,5 @@ I started on the assembly line at **General Motors** and moved into engineering 
 
 ### Contact
 
-- [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO)
-- Email: luizbonatex@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/luizteixeira03)
+- Email: luiz.teixeira@gm.com - luizbonatex@gmail.com
