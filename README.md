@@ -1,11 +1,54 @@
-## Luiz Teixeira 👨🏻‍💻
+# Luiz Teixeira
 
-<div align="center">
-  <a href="https://github.com/gostislavtx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gostislavtx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gostislavtx&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="gostislavtx-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="gostislavtx-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="gostislavtx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+Developer and Systems Analysis student from Rio Grande do Sul, Brazil.
+I started on the assembly line at **General Motors** and moved into engineering by automating the work around me. Today I work in the GM Gravataí **Control Room** on the **Throughput Improvement Process (TIP)**, using data, automation and AI to find and remove production losses.
+
+---
+
+### Projects
+
+- **[JornadaTech](https://github.com/gostislavtx/jornadatech)** 🏆 *1st place – XX Mostra de Iniciação Científica, Cesuca 2026*
+  Flutter app (mobile + web) that organizes free tech content into learning paths, so students keep studying after class. Part of the **Metamorfose Digital** project, supporting **UN SDG 4** (Quality Education) and **SDG 10** (Reduced Inequalities).
+  `Flutter` `Dart` `Figma`
+
+- **[Vértice Desk](https://github.com/gostislavtx/hackaton-cesuca)** 🥉 *3rd place – Hackathon Data Cempro + Cesuca 2026*
+  Help desk with AI ticket triage and a churn-risk radar for B2B clients. I built the front-end.
+  `Python` `Streamlit` `Ollama` `Claude` `Docker`
+
+- **uRoute** *(in development)*
+  Carpool app for university students, built by a team of four, starting at Cesuca.
+  `TypeScript` `React Native` `Expo` `Vitest`
+
+- **PPE detection (computer vision)**
+  YOLO model fine-tuned to spot missing helmets in real time, designed as a safety gate before the operator starts work.
+  `Python` `YOLO` `Ultralytics` `Google Colab`
+
+### At work (GM)
+
+- AI agents that write shift-closing reports and answer team questions
+- Python scripts that turn chat exports and spreadsheets into daily loss (JPH) and month-close reports
+- Power BI dashboards for throughput, safety and team KPIs
+- A web app concept to replace the paper sheet that follows each car down the line
+
+### Stack
+
+- **Languages:** Python · TypeScript · JavaScript · Dart · SQL · HTML/CSS
+- **Front-end & mobile:** Flutter · React Native · Expo · Streamlit
+- **Back-end:** Node.js · Express · Prisma · MongoDB
+- **Data & BI:** Pandas · Databricks · Power BI · Excel
+- **AI:** Google AI Studio · Agent Development Kit (ADK) · Ollama · YOLO · Glean · Claude Code
+- **Google:** Antigravity · Apps Script · Google Workspace · Google Cloud
+- **Tools:** Git · GitHub · Docker · Azure · Figma · VS Code
+
+### Now
+
+- Building **uRoute** with my team
+- Finishing my degree in **Systems Analysis and Development** (Cesuca, 2026)
+- **Geração Caldeira** – AI & Data track (Instituto Caldeira)
+- Completed the **Imersão Dev na Era da IA** (Google) – AI agents with AI Studio, Antigravity and ADK
+- Portuguese (native) · English (learning)
+
+### Contact
+
+- [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO)
+- Email: luizbonatex@gmail.com
